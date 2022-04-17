@@ -1,0 +1,41 @@
+.image.container img{
+    background: white ;
+    width: 100px; 
+    height: 100px; 
+    border-radius:50%;
+    padding:5px;
+    transform: translate(95px, 45px);
+}
+
+img{
+    border: 2px solid purple;
+}
+
+.lower-container {
+    margin-top: 60px
+    height: 300px; 
+    background: white ;
+    font-family: 'Titillium web',sans-serif;
+}
+ .lower-container h3,h4,h5 {
+     margin: 0;
+     padding: 0;
+ }
+
+ .lower-container h3{
+     color:purple ;
+     font-weight: 600;
+     font-size: 1.5rem;
+ }
+  
+ .lower-container h4{
+     color: purple;
+     font-weight: 700;
+     font-size: 1.2rem; 
+ }
+
+ .lower-container h5{
+     color: purple;
+     font-weight: 600;
+     font-size: 1.5rem;
+ }
